@@ -6,3 +6,5 @@ Francesca Vantaggiato
 Leah Nagel
 
 Class exercise
+
+New update to test the push/pull functionality from bash
