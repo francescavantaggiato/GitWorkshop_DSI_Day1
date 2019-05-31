@@ -10,3 +10,5 @@ Class exercise
 New update to test the push/pull functionality from bash
 
 Editing on the local machine, hooray
+
+Another silly comment (FV)
