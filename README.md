@@ -8,3 +8,5 @@ Leah Nagel whee
 Class exercise
 
 New update to test the push/pull functionality from bash
+
+Editing on the local machine, hooray
