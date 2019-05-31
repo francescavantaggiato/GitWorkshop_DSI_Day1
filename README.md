@@ -3,4 +3,6 @@
 
 Workshop 1st Day
 Francesca Vantaggiato
-Leah Nagel hi
+Leah Nagel whee
+
+Class exercise
